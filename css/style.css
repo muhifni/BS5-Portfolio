@@ -1,4 +1,16 @@
 .jumbotron {
-  padding: 2rem 1rem;
+  padding-top: 2rem;
+  background-color: rgb(163, 250, 163);
+}
+
+.jumbotron img {
+  width: 200px;
+}
+
+section {
+  min-height: 300px;
+}
+
+.projects {
   background-color: rgb(163, 250, 163);
 }

@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 7rem;
   background-color: rgb(163, 250, 163);
 }
 
@@ -9,8 +9,14 @@
 
 section {
   min-height: 300px;
+  padding-top: 5rem;
 }
 
 .projects {
   background-color: rgb(163, 250, 163);
+}
+
+footer {
+  background-color: #27bf27;
+  min-height: 50px;
 }
